@@ -1,11 +1,3 @@
-# `<name of application here>`
-
-## Database Schema Design
-
-`<insert database schema design here>`
-
-## API Documentation
-
 ## USER AUTHENTICATION/AUTHORIZATION
 
 ### All endpoints that require authentication
